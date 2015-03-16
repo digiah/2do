@@ -1,6 +1,6 @@
 How to Git it together.
 
-1. Get an GitHub Account
+1. Get a GitHub Account
 
 2. Get invited to the digiah repositories
 
