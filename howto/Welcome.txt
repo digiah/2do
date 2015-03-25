@@ -1,0 +1,7 @@
+Hi ,
+Welcome, Thanks for joining the Digital Arts and Humanities Initiative on GitHub.  
+
+I have sent you an invitation to join Digiah, our workspace.  You can find out what it is about on the 2Do Wiki at https://github.com/digiah/2do/wiki/GIT.  The main thing you want to check out is the "issues" tab on the right hand side of the 2Do page at https://github.com/digiah/2do/issues.  If you have a project you are working on with us, it will have an issue in 2Do that you will want to find.  That is where the discussion and planning takes place.  You can ignore all the code part unless you need it or are into that kind of thing.  Most of what we do is in issues and the wiki.  You are welcome and encouraged to join in the planning and discussion as well as write any wiki pages you think would be useful.  The wiki link above explains more.
+
+RIch
+
